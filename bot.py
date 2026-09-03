@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "MTU0Mjk1MjczMTAzMzk5NzM3Mw.GfP2Sy.8ha68843bMCR5fMajfm7B1ep2wXwm0_Az_zOHs"
+BOT_TOKEN = "MTU0Mjk1MjczMTAzMzk5NzM3Mw.GCm2kq.JjbqI7wmYQ6NKtRMlJ68EOyqiG5mcW9IvDojMM"
 
 # قائمة معرفات الرتب المسموح لها (Roles)
 ALLOWED_ROLE_IDS = [
